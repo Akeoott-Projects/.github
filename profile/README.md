@@ -1,11 +1,23 @@
-# Welcome to Akeoottt
+<table>
+<tr>
+<td>
 
-In this "organization" i and my friends aka contributors work any tiny projects such as "GitHub-Activity-Fetcher".
-I am completely open to people who want to join. Even people who arent as experienced as others!
+# Welcome to **Akeoottt**  
+In this "organization", me and my friends (aka contributors)  
+work on tiny projects like `GitHub-Activity-Fetcher`.
 
-Here the main language is **python**.
+> **Note:**  
+> I'm open to people joining — even beginners!  
+> Main language here is **Python**.  
 
-This orga belongs to [me](https://github.com/Akeoott)!
+This org belongs to [**Akeoott**](https://github.com/Akeoott)
 
+</td>
+<td>
 
-![A chicken i saw irl and took a picture of](https://github.com/user-attachments/assets/1547e5ea-3466-4d15-83cf-3761712aa741)
+<img src="https://github.com/user-attachments/assets/1547e5ea-3466-4d15-83cf-3761712aa741" width="200" />
+
+</td>
+</tr>
+</table>
+
