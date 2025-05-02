@@ -8,4 +8,4 @@ Here the main language is **python**.
 This orga belongs to [me](https://github.com/Akeoott)!
 
 
-![A chicken i saw irl and took a picture of](https://github.com/user-attachments/assets/b9c89df9-5c35-45cb-bd9a-8c7599688e17)
+![A chicken i saw irl and took a picture of](https://github.com/user-attachments/assets/1547e5ea-3466-4d15-83cf-3761712aa741)
