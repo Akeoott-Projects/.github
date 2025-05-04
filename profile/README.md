@@ -7,7 +7,7 @@ In this "organization", me and my friends (aka contributors)
 work on tiny projects like `GitHub-Activity-Fetcher`.
 
 > **Note:**  
-> I'm open to people joining — even beginners!  
+> I'm open to people joining — even people not very experienced in coding!  
 > Main language here is **Python**.  
 
 This org belongs to [**Akeoott**](https://github.com/Akeoott)
