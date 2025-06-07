@@ -3,12 +3,14 @@
 <td>
 
 # Welcome to **Akeoottt**  
-In this "organization", me and my friends (aka contributors)  
-work on tiny projects like `GitHub-Activity-Fetcher`.
+In this "organization", me and my friends (aka contributors)<br>
+work on ~~tiny~~ medium sized projects like `GitHub-Activity-Fetcher`<br>
+or my first library called `akeoott-logging-config`,<br>
+which YOU can pip install right now!
 
-> **Note:**  
-> I'm open to people joining — even people not very experienced in coding!  
-> Main language here is **Python**.  
+> [!NOTE]
+> I'm open to people joining — even people not very experienced in coding!<br>
+> Main language here is **Python**.
 
 This org belongs to [**Akeoott**](https://github.com/Akeoott)
 
