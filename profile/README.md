@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-# Welcome to **Akeoottt**  
+## Welcome to **Akeoottt**  
 In this "organization", me and my friends (aka contributors)<br>
 work on ~~tiny~~ medium sized projects like `GitHub-Activity-Fetcher`<br>
 or my first library called `akeoott-logging-config`,<br>
