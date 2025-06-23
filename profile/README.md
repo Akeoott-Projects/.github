@@ -15,9 +15,9 @@ which YOU can pip install right now!
 If you want to contact me,<br>
 go on my GitHub user profile and read the [README](https://github.com/Akeoott/Akeoott/blob/main/README.md)
 
-> I `Akeoott`, am the owner of this org.<br>
+> This org belongs to `Akeoott`.<br>
 > I `Akeoott`, outside of coding go by the user name of `akeoot`.<br>
-> Just call me `Ame` as its always my display name.<br>
+> But just call me `Ame` as its always my display name.<br>
 
 </td>
 <td>
