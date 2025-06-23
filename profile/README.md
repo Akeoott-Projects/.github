@@ -4,16 +4,20 @@
 
 ## Welcome to **Akeoott-Projects**  
 In this "organization", me and my friends (aka contributors)<br>
-work on ~~tiny~~ medium sized projects like `GitHub-Activity-Fetcher`<br>
+work on medium sized projects like `GitHub-Activity-Fetcher`<br>
 or my first library called `akeoott_logging_config`,<br>
 which YOU can pip install right now!
-> More projects are already underlying publish
 
 > [!NOTE]
 > I'm open to people joining — even people not very experienced in coding!<br>
 > Main language here is **Python**.
 
-This org belongs to [**Akeoott**](https://github.com/Akeoott), you can contact me on discord **`akeoot`**
+If you want to contact me,<br>
+go on my GitHub user profile and read the [README](https://github.com/Akeoott/Akeoott/blob/main/README.md)
+
+> I `Akeoott`, am the owner of this org.<br>
+> I `Akeoott`, outside of coding go by the user name of `akeoot`.<br>
+> Just call me `Ame` as its always my display name.<br>
 
 </td>
 <td>
